@@ -1,4 +1,4 @@
-package P3529__Wormholes;
+package P3259__Wormholes;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
